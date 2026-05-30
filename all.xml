@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henior2.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-30T08:02:56.298Z</updated>
+    <updated>2026-05-30T18:41:10.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Using Sprite as a Remote Dev Box (Tingou Wu's Website)]]></title>
+        <id>https://tingouw.com/blog/cloud_notes/vscode_remote_sprites</id>
+        <link href="https://tingouw.com/blog/cloud_notes/vscode_remote_sprites"/>
+        <updated>2026-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<!--[-->California electricity is getting too expensive to self-host<!--]-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Built a WebAssembly Runtime in 5 Days Because I Was Tired of Paying for Cloud Run (Tingou Wu's Website)]]></title>
         <id>https://tingouw.com/blog/cloud_notes/badwater_intro</id>
